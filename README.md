@@ -1,5 +1,5 @@
 # stock_price_prediction
-Project Description
+**Project Description**
 
 Developed a robust stock price predictor using Random Forest classifier. Integrated data from Yahoo Finance API for NASDAQ index. Included additional features for the model based on stock price averages.
 
